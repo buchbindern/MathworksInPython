@@ -11,4 +11,4 @@ This repository contains Python reimplementations of MathWorks Predictive Mainte
 
 ## Motivation
 
-Exploring different solution for prediictive maintenance.
+Exploring different solutions for prediictive maintenance.
