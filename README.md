@@ -1,6 +1,6 @@
 # MathWorks Predictive Maintenance Workflows in Python
 
-This repository contains Python reimplementations of MathWorks Predictive Maintenance Toolbox examples, enabling similar workflows without MATLAB.
+This repository contains Python implementations of MathWorks Predictive Maintenance Toolbox examples, enabling similar workflows without MATLAB.
 
 ## Contents
 
