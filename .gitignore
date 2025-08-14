@@ -3,3 +3,4 @@ __pycache__/
 .DS_Store
 battery_cycle_data.csv
 battery_cycle_data.csv
+LoadData.py
