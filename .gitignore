@@ -5,3 +5,4 @@ battery_cycle_data.csv
 battery_cycle_data.csv
 LoadData.py
 BatteryMatToCSV.ipynb
+WindTurbineDegradation/LoadWindTurbineData.ipynb
